@@ -1,0 +1,9 @@
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\obj\Debug\Projekt.Form1.resources
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\obj\Debug\Projekt.Properties.Resources.resources
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\obj\Debug\Projekt.csproj.GenerateResource.cache
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Aldi\Work\Shkoll\C#\Projekti\Projekt\Projekt\obj\Debug\Projekt.csprojAssemblyReference.cache
